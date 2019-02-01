@@ -1,0 +1,3 @@
+mozdevice==2.0
+mozlog
+marionette_driver
